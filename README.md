@@ -1,2 +1,2 @@
 # Storybook JS
-A online documentation of components made possible through storybook.
+An online documentation of React components made possible through Storybook JS.
